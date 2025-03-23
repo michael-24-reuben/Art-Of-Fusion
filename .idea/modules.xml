@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Art Of Fusion.iml" filepath="$PROJECT_DIR$/.idea/Art Of Fusion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bin/agent-portal/agent-portal.iml" filepath="$PROJECT_DIR$/bin/agent-portal/agent-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bin/jfusion/artoffusion-jfusion.iml" filepath="$PROJECT_DIR$/bin/jfusion/artoffusion-jfusion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bin/neural-hub/neural-hub.iml" filepath="$PROJECT_DIR$/bin/neural-hub/neural-hub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bin/whisper-cpp4j/whisper-cpp4j.iml" filepath="$PROJECT_DIR$/bin/whisper-cpp4j/whisper-cpp4j.iml" />
+    </modules>
+  </component>
+</project>

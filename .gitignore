@@ -1,0 +1,7 @@
+# Temporary data files and runtime files
+**/temp/
+**/target/
+/out/
+
+# Log files
+/logs/**

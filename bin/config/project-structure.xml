@@ -1,0 +1,29 @@
+<ProjectStructure name="Art Of Fusion" id="root">
+    <Folder name="bin" id="bin">
+        <Folder name="agent-portal" type="application/java-project"/>
+        <Folder name="config">
+            <Folder name="fxml"/>
+            <Folder name="styles"/>
+            <File name="project-structure.xml"/>
+        </Folder>
+        <Folder name="jfusion" type="application/java-project"/>
+        <Folder name="lib"/>
+        <Folder name="neural-hub" type="application/java-project"/>
+        <Folder name="whisper-cpp4j" type="application/java-project"/>
+    </Folder>
+    <Folder name="data" id="data">
+        <Folder name="models"/>
+        <Folder name="temp"/>
+    </Folder>
+    <Folder name="docs"/>
+    <Folder name="logs" id="logs"/>
+    <Folder name="scripts"/>
+    <Folder name="resources" id="resources">
+        <Folder name="fonts"/>
+        <Folder name="icons"/>
+        <Folder name="images"/>
+    </Folder>
+    <File name="README.md"/>
+    <File name="LICENSE"/>
+    <File name="VERSION"/>
+</ProjectStructure>
